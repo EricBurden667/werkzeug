@@ -34,3 +34,4 @@ pytest-xprocess==0.22.2
     # via -r requirements/tests.in
 watchdog==3.0.0
     # via -r requirements/tests.in
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
